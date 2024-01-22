@@ -1,2 +1,2 @@
-# Elasticsearch-MQTT
-Repository for the elements of the blog article on using Elasticsearch, filebeats, kibana to analyse realtime MQTT traffic on HiveMQ platform.
+# Integrating ElasticSearch with HiveMQ platform for realtime MQTT analytics
+This repository is hosting the configuration files from the blog article on how to integrate ElasticSearch with HiveMQ platform for realtime MQTT analytics.
